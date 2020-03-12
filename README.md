@@ -1,1 +1,1 @@
-Desenvolvi esse pequeno jogo casual através da Unity com o curso "Crie seus Jogos"
+Desenvolvi esse pequeno jogo casual para celular através da Unity com o curso "Crie seus Jogos"
